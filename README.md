@@ -51,8 +51,9 @@ This project explores deep learning architectures for **video-based human action
 - Both models achieved high performance on the UCF-11 dataset.
 - **I3D + LSTM** showed stronger generalization due to pretrained weights.
 - **3D CNN + LSTM** performed competitively with fewer parameters and more flexibility.
-<img width="685" height="580" alt="image" src="https://github.com/user-attachments/assets/83b0b3e1-c1e6-47ab-a2a1-f7aa18c455c1" />
-
+<img width="685" height="580" alt="image" src="https://github.com/user-attachments/assets/83b0b3e1-c1e6-47ab-a2a1-f7aa18c455c1" />             <img width="685" height="540" alt="image" src="https://github.com/user-attachments/assets/3473a146-4914-4e82-ad03-66511ec838b0" />
+  I3D model Confusion Matrix                                                                                                                             Custom 3D CNN model Confusion Matrix 
+ 
 
 ---
 
